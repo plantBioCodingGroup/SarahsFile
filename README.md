@@ -1,2 +1,4 @@
 # SarahsFile
-Sarah trying to code
+#Sarah trying to code
+pwd
+
